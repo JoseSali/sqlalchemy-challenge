@@ -90,10 +90,6 @@ The project starts by establishing a connection to the SQLite database `hawaii.s
 - The precipitation analysis shows the distribution of daily precipitation over the last 12 months, identifying periods of high rainfall.
 - The temperature analysis identifies the lowest, highest, and average temperatures recorded at the most active station, with a histogram showing the temperature distribution over the past year.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - Data provided by UC Irvine's Data Analytics Bootcamp.
