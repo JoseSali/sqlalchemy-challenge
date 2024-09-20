@@ -94,4 +94,3 @@ The project starts by establishing a connection to the SQLite database `hawaii.s
 
 - Data provided by UC Irvine's Data Analytics Bootcamp.
 - Tools and techniques taught during the bootcamp were instrumental in completing this project.
-
